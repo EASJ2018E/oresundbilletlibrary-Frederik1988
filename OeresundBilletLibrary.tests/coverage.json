@@ -1,0 +1,104 @@
+{
+  "C:\\source\\OeresundBilletLibrary\\OeresundBilletLibrary.tests\\bin\\Debug\\netcoreapp2.0\\OeresundBilletLibrary.dll": {
+    "C:\\source\\OeresundBilletLibrary\\OeresundBilletLibrary\\Bil.cs": {
+      "OeresundBilletLibrary.Bil": {
+        "System.Decimal OeresundBilletLibrary.Bil::Pris()": {
+          "Lines": {
+            "24": 1,
+            "25": 1,
+            "26": 1
+          },
+          "Branches": []
+        },
+        "System.String OeresundBilletLibrary.Bil::Køretøj()": {
+          "Lines": {
+            "29": 1,
+            "30": 1,
+            "31": 1
+          },
+          "Branches": []
+        },
+        "System.Decimal OeresundBilletLibrary.Bil::BroBizz()": {
+          "Lines": {
+            "34": 1,
+            "35": 1,
+            "36": 1
+          },
+          "Branches": []
+        },
+        "System.Void OeresundBilletLibrary.Bil::.ctor()": {
+          "Lines": {
+            "11": 3,
+            "12": 3,
+            "13": 3
+          },
+          "Branches": []
+        },
+        "System.Void OeresundBilletLibrary.Bil::.ctor(System.String,System.DateTime)": {
+          "Lines": {
+            "15": 2,
+            "16": 1,
+            "17": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\OeresundBilletLibrary\\OeresundBilletLibrary\\MC.cs": {
+      "OeresundBilletLibrary.MC": {
+        "System.Decimal OeresundBilletLibrary.MC::Pris()": {
+          "Lines": {
+            "27": 1,
+            "28": 1,
+            "29": 1
+          },
+          "Branches": []
+        },
+        "System.String OeresundBilletLibrary.MC::Køretøj()": {
+          "Lines": {
+            "32": 1,
+            "33": 1,
+            "34": 1
+          },
+          "Branches": []
+        },
+        "System.Decimal OeresundBilletLibrary.MC::BroBizz()": {
+          "Lines": {
+            "37": 1,
+            "38": 1,
+            "39": 1
+          },
+          "Branches": []
+        },
+        "System.Void OeresundBilletLibrary.MC::.ctor()": {
+          "Lines": {
+            "14": 3,
+            "15": 3,
+            "16": 3
+          },
+          "Branches": []
+        },
+        "System.Void OeresundBilletLibrary.MC::.ctor(System.String,System.DateTime)": {
+          "Lines": {
+            "18": 2,
+            "19": 1,
+            "20": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\OeresundBilletLibrary\\OeresundBilletLibrary\\Program.cs": {
+      "OeresundBilletLibrary.Program": {
+        "System.Void OeresundBilletLibrary.Program::Main()": {
+          "Lines": {
+            "12": 1,
+            "13": 1,
+            "14": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
